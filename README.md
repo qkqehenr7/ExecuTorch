@@ -1,6 +1,6 @@
 # ExecuTorch Model Verification & Benchmark CLI
 
-### Structure
+### 📁 Structure
 ```
 ├── executorch_report.pdf  # Task 1: 오픈 소스 분석 레포트
 ├── requirements.txt       # 의존성 패키지
@@ -23,8 +23,13 @@ pip install -r requirements.txt
 🎯 Objective
 ExecuTorch 오픈소스 구조를 분석하고, 핵심 구성요소를 문서화한다.
 ### 📄 Description
-크게 개요 및 작동 방식, 장점과 핵심 기능, 아키텍쳐, 소스 코드 구조, 지원 범위 및 한계점으로 나누어 구성했습니다. <br>
-PDF 형식으로 작성되었으며, 해당 내용에 맞는 참고 문서가 하이퍼링크로 연결되어 있습니다.
+- ExecuTorch의 개요 및 작동 방식
+- 핵심 기능, 장점, 아키텍처
+- 내부 소스 코드 구조 및 계층별 역할
+- 지원 범위 및 한계점
+- 각 파트별로 공식 문서 및 관련 링크를 하이퍼링크로 연결
+
+> 분석 결과는 executorch_report.pdf 문서로 정리되어 있습니다.
 
 
 ---
